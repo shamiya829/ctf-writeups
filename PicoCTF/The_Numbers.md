@@ -3,7 +3,8 @@
 ###**AUTHOR: DANNY**###
 
 ##Description
-##The numbers... what do they mean?
+
+The numbers... what do they mean?
 Link to image: https://jupiter.challenges.picoctf.org/static/f209a32253affb6f547a585649ba4fda/the_numbers.png
 
 ### Preview:
