@@ -7,7 +7,7 @@
 Link to image: https://jupiter.challenges.picoctf.org/static/f209a32253affb6f547a585649ba4fda/the_numbers.png
 
 ### Preview:
-![The Numbers](https://ibb.co/mHYVhxH)
+![The Numbers](https://i.ibb.co/zSLTPkS/the-numbers.png)
 
 ### Solution:
 
